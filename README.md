@@ -20,6 +20,6 @@ Na terceira etapa concluí o contexto de desafios e dentro desse contexto uma me
 
 ### Próximas etapas: 
 
-[] mudar a foto e nome do usuário 
+[] Opção de editar perfil
 
-[] dar liberar ao usuário de escolher o tempo do ciclo 
+[] Tornar o countdown editável
