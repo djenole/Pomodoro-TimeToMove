@@ -23,3 +23,8 @@ Na terceira etapa concluí o contexto de desafios e dentro desse contexto uma me
 [] Opção de editar perfil
 
 [] Tornar o countdown editável
+
+
+imagem teste:
+<img src="https://www.zooplus.pt/magazine/wp-content/uploads/2021/03/kitten-sitzt-boden-768x512-1.jpeg" width="680">
+<img src="https://user-images.githubusercontent.com/55561761/185716539-93576518-08b5-4e5a-adcc-ff66388a339f.jpeg" width="680">
